@@ -1,4 +1,4 @@
-# SnakeInMinecraft
+# Snake In Minecraft
 Ever wanted to play your favorite Snake game in Minecraft? Well with this plugin, you can! Except there is a little twist... if you lose the game, your Minecraft client crashes!
 
 How to use
