@@ -6,5 +6,6 @@ How to use
 1. Put the `SnakeInMinecraft.jar` inside your plugins folder.
 2. Start the server
 3. Run `/snake <canvas_size>` to start the game!
+4. Good luck :)
 
 ![Snake Showcase](assets/snake_showcase.gif)
